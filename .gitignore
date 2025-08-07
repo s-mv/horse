@@ -1,0 +1,15 @@
+_build/
+*.install
+*.merlin
+*.merlin-exists
+*.cmt
+*.cmti
+*.cmx
+*.o
+*.obj
+*.a
+*.cmx*
+*.cmi
+*.cmo
+*.annot
+

@@ -1,0 +1,4 @@
+(executable
+ (public_name horse)
+ (name main)
+ (libraries horse))
