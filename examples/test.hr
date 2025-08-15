@@ -1,0 +1,6 @@
+loop
+  x = 42
+  if x == 42 then                                                                           
+    y = x
+  end
+end
